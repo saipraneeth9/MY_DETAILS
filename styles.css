@@ -1,0 +1,69 @@
+/*************TAG SELECTORS****************/
+body {
+    background-color: #4a3f35;
+    margin: 0;
+    text-align: center ;
+  }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color:#ff4301;
+    border-width: 5px;
+    height: 0;
+    width: 10%;
+  }
+  h1{
+      color: #fa7d09;
+      text-align: center;
+  }
+  a{
+      color:#2f2519;
+  }
+  h3{
+      color:#ffa931 ;
+  }
+  a:hover{
+      color: gold;
+  }
+  /*************CLASS SELECTORS****************/
+  
+  .myname{
+      background-color: #2f2519;
+      text-align: center;
+  }
+
+  .aboutme{
+      background-color: #2f2519;
+      margin: 0 auto 0 auto
+      
+  }
+  .table1{
+      margin: auto;
+  }
+  .mypic{
+      padding: 10px; 
+  }
+  .toppics{
+      padding: 10px;
+      
+  }
+  .cloud1{
+    margin-top: 200px;  
+    margin-right: 40px;
+  }
+  .cloud2{
+    margin-bottom: 200px;
+    margin-left: 40px;
+}
+  .details{
+      background-color: #fa7d09;
+  }
+  .h31{
+      display: inline-block;
+  }
+  .h32{
+      display: inline-block;
+  }
+  .quote{
+      color: gold;
+  }
